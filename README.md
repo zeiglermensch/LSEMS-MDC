@@ -18,7 +18,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 | hotkeys.ini | StartMDC | Key or combo to start displaying the GUI | Toggle |
 | hotkeys.ini | StopMDC | Key or combo to stop displaying the GUI | Toggle |
-| hotkeys.ini | PayToll | Key or send `/paytoll` | Press key |
+| hotkeys.ini | PayToll | Key to send `/paytoll` | Press key |
 | hotkeys.ini | ToggleMouse | Key to enable mouse interaction with the GUI | Toggle |
 | hotkeys.ini | CheckUnits | Key to send `/units` | Press key |
 | hotkeys.ini | CheckCalls | Key to send `/calls` | Press key |
