@@ -6,7 +6,8 @@
 
 1. Download the entire repository (`Green` Button -> `Download Zip`).
 2. Extract the zip file into a folder of your choosing.
-3. Run the `LSEMS MDC.exe`
+3. Run the `LSEMS MDC.exe`.
+4. Press `ctrl + end` to open the GUI.
 
 - If you have any issues with this menu or any bugs that you find, feel free to reach out to me.  Additionally, if you want new features added or want to add a feature yourself, feel free to reach out or do a push/pull request.
 - Additionally, I have ran this by admins and they have all said that this does not break any rules, as it is all stuff that we do all the time.
